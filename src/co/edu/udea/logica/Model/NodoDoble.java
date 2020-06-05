@@ -1,5 +1,8 @@
-package co.edu.udea.logica.Modelo;
+package co.edu.udea.logica.Model;
 
+/**
+ * @implNote Código reciclado de una práctica del semestre anterior para lógica II
+ */
 public class NodoDoble {
     private Integer dato;
     private  NodoDoble li;
